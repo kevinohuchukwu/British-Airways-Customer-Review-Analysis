@@ -20,7 +20,7 @@ Key Insights
 * Class imbalance biased predictions toward non-bookings (Class 0), reducing accuracy for completed bookings (Class 1).
 
 # Recommendations: 
-o	Target high-value routes and origins with promotions.
-o	Implement early-bird discounts to encourage earlier bookings.
-o	Retarget at-risk customers with personalized offers.
-o	Address model imbalance with oversampling, class-weight adjustments, or ensemble techniques to improve recall.
+*  Target high-value routes and origins with promotions.
+*  Implement early-bird discounts to encourage earlier bookings.
+*  Retarget at-risk customers with personalized offers.
+*  Address model imbalance with oversampling, class-weight adjustments, or ensemble techniques to improve recall.
