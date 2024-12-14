@@ -53,6 +53,9 @@ This script ensures the review text is standardized and simplified for text anal
 
 [Preprocessing Reviews.docx](https://github.com/user-attachments/files/18136827/Preprocessing.Reviews.docx)
 
+![image](https://github.com/user-attachments/assets/38b7db62-afa0-4a7e-b345-44c596d65a1d)
+
+
 
 
 
