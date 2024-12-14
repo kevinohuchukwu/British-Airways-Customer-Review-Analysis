@@ -37,7 +37,7 @@ HEADERS = {
 }
 response = requests.get(url, headers=HEADERS)
 response.raise_for_status()
-print(response.text)` ``` `
+print(response.text)
 
 This script sends a GET request to the specified URL, retrieves the HTML content of the page, and prints it.
 
