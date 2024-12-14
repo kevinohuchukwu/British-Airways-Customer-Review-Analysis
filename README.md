@@ -55,6 +55,9 @@ This script ensures the review text is standardized and simplified for text anal
 
 ![image](https://github.com/user-attachments/assets/38b7db62-afa0-4a7e-b345-44c596d65a1d)
 
+[sentiment and change over time.docx](https://github.com/user-attachments/files/18136878/sentiment.and.change.over.time.docx)
+
+
 
 
 
