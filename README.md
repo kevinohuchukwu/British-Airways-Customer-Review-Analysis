@@ -51,5 +51,8 @@ The script processes a dataset of reviews, performing text cleaning and saving t
 ## Purpose
 This script ensures the review text is standardized and simplified for text analysis tasks like sentiment analysis or NLP modeling.
 
+[Step111.docx](https://github.com/user-attachments/files/18136821/Step111.docx)
+
+
 
 
