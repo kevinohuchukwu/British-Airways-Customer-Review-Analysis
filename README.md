@@ -22,7 +22,7 @@ The tool requires the following Python libraries:
 *	re: Regular expression operations (built-in with Python 3.x).
 *	IPython.display: For interactive widgets and display in Jupyter Notebooks.
 
-Additional Notes:
+### Additional Notes:
 *	nltk requires downloading specific datasets (e.g., stopwords, WordNet) using nltk.download().
 *	BeautifulSoup is used for web scraping, and requests provides the interface to fetch web pages.
 *	Visualization is supported by matplotlib, seaborn, and wordcloud.
