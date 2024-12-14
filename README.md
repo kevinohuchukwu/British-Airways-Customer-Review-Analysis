@@ -66,6 +66,9 @@ This script ensures the review text is standardized and simplified for text anal
 [Extracting Keywords from Negative Reviews.docx](https://github.com/user-attachments/files/18136974/Extracting.Keywords.from.Negative.Reviews.docx)
 
 
+![Extracting Keywords](https://github.com/user-attachments/assets/51005c33-619f-4a8d-ab18-7942d2f1f80e)
+
+
 
 
 
