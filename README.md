@@ -84,7 +84,7 @@ Key Observations:
 3.	Slight Recovery and Drop:
 *	After 2020, there was a slight recovery in review numbers, peaking again in 2022, but then it dropped significantly by 2024.
   
-# Inteerpretation:
+# Interpretation:
 *	The peak in reviews might reflect increased customer interaction or significant events during that period.
 *	The sharp decline in later years could indicate less engagement or fewer issues prompting feedback.
 *	Recovery in 2022 suggests renewed customer activity, which again tapered off in 2024.
