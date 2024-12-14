@@ -90,3 +90,9 @@ Key Observations:
 *	Recovery in 2022 suggests renewed customer activity, which again tapered off in 2024.
 This visualization helps to understand customer engagement patterns and track how interactions with reviews have changed over time.
 
+## Insights for the Airline 
+*	Discussions around flights often include mentions of seats and foods, indicating these are critical components of passenger satisfaction.
+*	There is significant discussion around seating arrangements and class types, including business and economy.
+*	Discussions indicate concerns with delays and service, specifically related to the duration and management of flights.
+
+
