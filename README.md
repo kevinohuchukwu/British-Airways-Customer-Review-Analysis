@@ -41,10 +41,8 @@ HEADERS = {
 response = requests.get(url, headers=HEADERS)
 response.raise_for_status()
 print(response.text)
+```python
 
-```bash
-python script.py
 
-### This script is a basic web scraping setup that retrieves and prints the raw HTML of the specified webpage. It’s the first step in processing the page, which could involve further parsing or analysis using libraries like BeautifulSoup.
 
 
