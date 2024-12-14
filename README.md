@@ -35,4 +35,21 @@ This script is a basic web scraping setup that retrieves and prints the raw HTML
 
 [Load the dataset.docx](https://github.com/user-attachments/files/18136779/Load.the.dataset.docx)
 
+The script processes a dataset of reviews, performing text cleaning and saving the cleaned data for further analysis. Here's a brief explanation:
+1.	Load Dataset: The dataset (BA_reviews.csv) is loaded into a DataFrame with two columns: Review and Date.
+2.	Text Cleaning Function:
+*	Removes unwanted parts of the text ('Not Verified |').
+*	Converts text to lowercase for uniformity.
+*	Strips punctuation using str.translate.
+*	Tokenizes text into words using word_tokenize.
+*	Removes common stopwords (like "the", "and") using the stopwords list from NLTK.
+*	Applies lemmatization to convert words to their base form using WordNetLemmatizer.
+3.	Apply Cleaning: The clean_text function is applied to each review in the Review column, creating a new column cleaned_review.
+4.	Drop Original Column: The original Review column is dropped as the cleaned version replaces it.
+5.	Save Cleaned Data: The cleaned data, including the cleaned_review and Date columns, is displayed and optionally saved to a new CSV file (cleaned_reviews.csv) for further use.
+ 	
+## Purpose
+This script ensures the review text is standardized and simplified for text analysis tasks like sentiment analysis or NLP modeling.
+
+
 
