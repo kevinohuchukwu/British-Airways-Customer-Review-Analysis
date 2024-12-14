@@ -29,18 +29,15 @@ The tool requires the following Python libraries:
 
 # Understanding The Data
 ## Python Usage
-
 You can fetch data from the British Airways reviews page using the following Python code:
-
 ```python
 url = "https://www.airlinequality.com/airline-reviews/british-airways"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 }
-
 response = requests.get(url, headers=HEADERS)
 response.raise_for_status()
 print(response.text)
 ```python
 
-### This script is a basic web scraping setup that retrieves and prints the raw HTML of the specified webpage. It’s the first step in processing the page, which could involve further parsing or analysis using libraries like BeautifulSoup.
+
