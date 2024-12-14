@@ -28,5 +28,6 @@ The tool requires the following Python libraries:
 *	Visualization is supported by matplotlib, seaborn, and wordcloud.
   
 # Understanding The Data
+![import requests_page-0001](https://github.com/user-attachments/assets/0ac7b453-0b0f-453c-8537-f67094ad1724)
 
-![import requests.docx](https://github.com/user-attachments/files/18136648/import.requests.docx)
+
