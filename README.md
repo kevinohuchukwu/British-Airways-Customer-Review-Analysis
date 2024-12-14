@@ -27,6 +27,9 @@ The tool requires the following Python libraries:
 *	BeautifulSoup is used for web scraping, and requests provides the interface to fetch web pages.
 *	Visualization is supported by matplotlib, seaborn, and wordcloud.
 
+# Understanding The Data
+url = "https://www.airlinequality.com/airline-reviews/british-airways"
+
 
 ## Recommendations 
 * Enhance meal quality and maintain seating comfort standards across all classes.
