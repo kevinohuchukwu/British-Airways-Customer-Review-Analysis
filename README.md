@@ -26,7 +26,8 @@ The tool requires the following Python libraries:
 *	nltk requires downloading specific datasets (e.g., stopwords, WordNet) using nltk.download().
 *	BeautifulSoup is used for web scraping, and requests provides the interface to fetch web pages.
 *	Visualization is supported by matplotlib, seaborn, and wordcloud.
-[import requests.docx](https://github.com/user-attachments/files/18136648/import.requests.docx)
+  
+![import requests.docx](https://github.com/user-attachments/files/18136648/import.requests.docx)
 
 
 
