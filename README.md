@@ -72,7 +72,6 @@ This script ensures the review text is standardized and simplified for text anal
 [Quantitative analysis.docx](https://github.com/user-attachments/files/18136998/Quantitative.analysis.docx)
 
 
-
-
+![QA](https://github.com/user-attachments/assets/af08e410-582d-4139-becd-0713904c436e)
 
 
