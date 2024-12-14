@@ -60,7 +60,7 @@ This script ensures the review text is standardized and simplified for text anal
 
 
 
-![Uploading Sentimental Analysis.PNG…]()
+
 
 
 
