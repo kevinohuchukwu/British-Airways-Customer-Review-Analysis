@@ -33,8 +33,6 @@ The tool requires the following Python libraries:
 You can fetch data from the British Airways reviews page using the following Python code:
 
 ```python
-import requests
-
 url = "https://www.airlinequality.com/airline-reviews/british-airways"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
