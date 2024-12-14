@@ -27,23 +27,6 @@ The tool requires the following Python libraries:
 *	BeautifulSoup is used for web scraping, and requests provides the interface to fetch web pages.
 *	Visualization is supported by matplotlib, seaborn, and wordcloud.
   
-![import requests.docx](https://github.com/user-attachments/files/18136648/import.requests.docx)
-
-
-
-
-
 # Understanding The Data
-## Python Usage
-You can fetch data from the British Airways reviews page using the following Python code:
-```python
-url = "https://www.airlinequality.com/airline-reviews/british-airways"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-}
-response = requests.get(url, headers=HEADERS)
-response.raise_for_status()
-print(response.text)
 
-This script sends a GET request to the specified URL, retrieves the HTML content of the page, and prints it.
-
+! [import requests.docx](https://github.com/user-attachments/files/18136648/import.requests.docx)
