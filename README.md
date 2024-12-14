@@ -28,7 +28,6 @@ The tool requires the following Python libraries:
 *	Visualization is supported by matplotlib, seaborn, and wordcloud.
 
 # Understanding The Data
-
 ```bash
 curl -X GET "https://www.airlinequality.com/airline-reviews/british-airways" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
 
