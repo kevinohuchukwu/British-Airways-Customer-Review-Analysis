@@ -74,4 +74,19 @@ This script ensures the review text is standardized and simplified for text anal
 
 ![QA](https://github.com/user-attachments/assets/af08e410-582d-4139-becd-0713904c436e)
 
+### change over time Graph
+This graph shows the trend of reviews over time, where the x-axis represents the years (from 2012 to 2024), and the y-axis represents the number of reviews for each year.
+Key Observations:
+1.	Increase in Reviews:
+*	The number of reviews started very low in 2012 but rapidly increased to a peak around 2014-2015, where the number of reviews exceeded 700.
+2.	Decline After the Peak:
+*	After 2015, the number of reviews started to decline steadily, with some small fluctuations, until it hit its lowest point around 2020.
+3.	Slight Recovery and Drop:
+*	After 2020, there was a slight recovery in review numbers, peaking again in 2022, but then it dropped significantly by 2024.
+  
+# Inteerpretation:
+*	The peak in reviews might reflect increased customer interaction or significant events during that period.
+*	The sharp decline in later years could indicate less engagement or fewer issues prompting feedback.
+*	Recovery in 2022 suggests renewed customer activity, which again tapered off in 2024.
+This visualization helps to understand customer engagement patterns and track how interactions with reviews have changed over time.
 
