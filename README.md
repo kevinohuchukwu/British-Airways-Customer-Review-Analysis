@@ -60,6 +60,7 @@ This script ensures the review text is standardized and simplified for text anal
 
 ![image](https://github.com/user-attachments/assets/38b7db62-afa0-4a7e-b345-44c596d65a1d)![Sentimental Analysis](https://github.com/user-attachments/assets/08309209-8e3d-474f-8518-becde166b948)
 
+![Changes over time](https://github.com/user-attachments/assets/7581c62b-d94e-4949-9ee8-f360f1cf24f9)
 
 
 
