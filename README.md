@@ -69,6 +69,8 @@ This script ensures the review text is standardized and simplified for text anal
 ![Extracting Keywords](https://github.com/user-attachments/assets/51005c33-619f-4a8d-ab18-7942d2f1f80e)
 
 
+[Quantitative analysis.docx](https://github.com/user-attachments/files/18136998/Quantitative.analysis.docx)
+
 
 
 
